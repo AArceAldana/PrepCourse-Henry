@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 de Henry
+aldana arce. prueba de como crear un rep y clonarlo desde mi computadora local.
+
